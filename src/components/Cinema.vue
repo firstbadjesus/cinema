@@ -13,7 +13,7 @@
             <div class="place">6</div>
             <div class="place">7</div>
             <div class="place">8</div>
-            <div class="place">9</div>
+            <div class="place">910</div>
 
             <!-- <div class="place">0</div> -->
          </div>
@@ -27,7 +27,7 @@
 
 <style>
 .cinema {
-   color: white;
+   color: green;
    padding: 39px;
    background-color: red;
    
@@ -37,7 +37,7 @@
    width: 600px;
 }
 .monitor{
-   background-color:gray;
+   background-color: white;
    padding: 15px;
    text-transform: uppercase;
    margin-bottom: 20px;
